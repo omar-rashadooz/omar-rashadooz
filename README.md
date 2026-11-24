@@ -40,7 +40,7 @@
 
 ### 🚀 Featured Projects
 
-> https://github.com/omar-rashadooz?tab=repositories
+> [Projects](https://github.com/omar-rashadooz?tab=repositories)
 
 - **🖥️ RASHADOOZ OS** — A custom 32-bit x86 operating system built from scratch using C and Assembly, featuring GRUB bootloading, framebuffer graphics, and embedded games.
 - **🎮 [Your Game Project Name]** — A classic arcade/homebrew game built with C/C++.
@@ -60,7 +60,7 @@
 ### 📫 Connect With Me
 
 - **GitHub:** [@rashadooz](https://github.com/omar-rashadooz)
-- **Portfolio / Brand:** RASHADOOZ ZONE
+- **Portfolio / Brand:** [RASHADOOZ ZONE]()
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rashadooz&label=Profile%20views&color=0e75b6&style=flat" alt="rashadooz" />

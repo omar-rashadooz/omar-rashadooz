@@ -60,7 +60,7 @@
 ### 📫 Connect With Me
 
 - **GitHub:** [@rashadooz](https://github.com/omar-rashadooz)
-- **Portfolio / Brand:** [RASHADOOZ ZONE]()
+- **Portfolio / Brand:** [RASHADOOZ ZONE](https://omar-rashadooz.github.io/rashadooz-zone.com/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rashadooz&label=Profile%20views&color=0e75b6&style=flat" alt="rashadooz" />

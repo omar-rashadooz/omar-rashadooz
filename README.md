@@ -44,7 +44,7 @@
 
 - **🖥️ RASHADOOZ OS** — A custom 32-bit x86 operating system built from scratch using C and Assembly, featuring GRUB bootloading, framebuffer graphics, and embedded games.
 - **🎮 [Retro game console]** — A classic arcade/homebrew game built with C/C++.
-- **🌐 [Rashadooz zone]** — Responsive web application built with HTML, CSS, and JavaScript.
+- **🌐 [Rashadooz zone]** — Responsive news website  built with HTML, CSS, and JavaScript.
 
 ---
 

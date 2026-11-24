@@ -1,67 +1,86 @@
-<div align="center">
+<h1 align="center">Hi, I'm Omar 👋</h1>
 
-# Hi there, I'm Rashadooz 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Becoming+a+Full-Stack+Developer+%F0%9F%9A%80;Game+%26+OS+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
+</p>
 
-### Frontend Developer | Aspiring Full-Stack Developer | OS & Game Dev Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences.;Exploring+low-level+systems+%26+OS+dev.;Creating+games+from+scratch.;Road+to+Full-Stack+Developer!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working as a **Frontend Developer** and leveling up into **Full-Stack Development**.
-- 💻 Comfortable working across the stack—from high-level web interfaces to low-level system programming.
-- 🎮 Passionate about **Game Development**, retro/homebrew systems, and **Operating Systems** architecture.
-- 🧠 Always tinkering with custom software, Linux environments, and building things from the ground up.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omar-rashadooz&color=blue&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/omar-rashadooz?style=flat-square&logo=github" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Languages
+## 🧑‍💻 About Me
+
+- 🎨 Frontend developer building clean, fast, responsive interfaces
+- 🚀 Currently leveling up to **Full-Stack** development
+- 🎮 I love **games** and how they're built
+- 🖥️ Obsessed with **operating systems** and how computers work under the hood
+- 🌱 Always learning, always building
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Web**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Environment & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Featured Projects
+## 🎯 What I'm Working Towards
 
-> [Projects](https://github.com/omar-rashadooz?tab=repositories)
-
-- **🖥️ RASHADOOZ OS** — A custom 32-bit x86 operating system built from scratch using C and Assembly, featuring GRUB bootloading, framebuffer graphics, and embedded games.
-- **🎮 [Retro game console]** — A classic arcade/homebrew game built with C/C++.
-- **🌐 [Rashadooz zone]** — Responsive news website  built with HTML, CSS, and JavaScript.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=omar-rashadooz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rashadooz&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+- [x] Master HTML, CSS & JavaScript
+- [x] Learn low-level programming with C & C++
+- [ ] Learn a frontend framework (React)
+- [ ] Learn backend development (Node.js / Python)
+- [ ] Build and deploy full-stack projects
+- [ ] Build my own mini game
+- [ ] Build a tiny operating system kernel 🤓
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub Stats
 
-- **GitHub:** [@rashadooz](https://github.com/omar-rashadooz)
-- **Portfolio / Brand:** [RASHADOOZ ZONE](https://omar-rashadooz.github.io/rashadooz-zone.com/)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omar-rashadooz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rashadooz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashadooz&label=Profile%20views&color=0e75b6&style=flat" alt="rashadooz" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omar-rashadooz&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Fun Facts
+
+- 🕹️ I'd rather understand how a game works than just play it
+- ⚙️ I like knowing what happens between a click and the CPU
+- ☕ Bugs are just features I haven't documented yet
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/omar-rashadooz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add yours: -->
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+</p>
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>

@@ -49,7 +49,7 @@
 - [ ] Learn backend development (Node.js / Python)
 - [ ] Build and deploy full-stack projects
 - [ ] Build my own mini game
-- [ ] Build a tiny operating system kernel 🤓
+- [x] Build a tiny operating system kernel 🤓
 
 ---
 
